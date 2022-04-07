@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 <!-- - 👯 I’m looking to collaborate on  -->
 <!-- - 🤔 I’m looking for help with  -->
 - 💬 Ask me about ...
-- 📫 How to reach me: @mailto:Siddhantjaiswal363@gmail.com
+- 📫 How to reach me: Siddhantjaiswal363@gmail.com
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
