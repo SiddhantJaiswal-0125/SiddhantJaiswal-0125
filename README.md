@@ -1,4 +1,4 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> नमस्ते 🙏 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
@@ -10,7 +10,7 @@ I am Siddhant Jaiswal😃. I am from Ranchi, Jharkhand and currently doing my B.
 * Codex
 * Competative Lead at Codechef ITER Chapter
 * Campus Envoy at Samsung Prism ITER
-* CamPus Ambassador at Coding Ninja 
+* Campus Ambassador at Coding Ninja 
 
 ## ⚡ Technologies
 Talk to me about
