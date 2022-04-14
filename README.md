@@ -8,10 +8,10 @@
 
 
 
-I am Siddhant Jaiswal😃. I am from Ranchi, Jharkhand and currently doing my B.Tech from Siksha O Anusandhan  University,Bhubaneswar 🏫. I love to explore and learn about new things.
+I am Siddhant Jaiswal. I am from Ranchi, Jharkhand and currently doing my B.Tech from Siksha O Anusandhan  University, Bhubaneswar 🏫. I love to explore and learn about new things.
 ## 👯 Communities
-* Codex
-* Competative Lead at Codechef ITER Chapter
+* Codex 💻
+* Competative Lead at Codechef ITER Chapter 📈
 * Campus Envoy at Samsung Prism ITER
 * Campus Ambassador at Coding Ninja 
 
