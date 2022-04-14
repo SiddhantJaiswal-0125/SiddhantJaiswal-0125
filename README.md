@@ -4,6 +4,9 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Siddhant%20Jaiswal-blue)](https://www.linkedin.com/in/siddhantjaiswal363/) [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Siddhant%20Jaiswal-brightgreen)](https://siddhantjaiswal-0125.github.io/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-siddhantjaiswal363-red)](mailto:siddhantjaiswal363@gmail.com)
+[![Leetcode Badge](https://img.shields.io/badge/LeetCode-Siddhant-yellow)](https://leetcode.com/SiddhantJaiswal363/)
+
+
 
 I am Siddhant Jaiswal😃. I am from Ranchi, Jharkhand and currently doing my B.Tech from Siksha O Anusandhan  University,Bhubaneswar 🏫. I love to explore and learn about new things.
 ## 👯 Communities
