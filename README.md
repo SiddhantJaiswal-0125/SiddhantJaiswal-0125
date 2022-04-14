@@ -30,7 +30,6 @@ Talk to me about
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshkumarkhatri&hide=["issues"]&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=
-SiddhantJaiswal-0125)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=SiddhantJaiswal-0125.SiddhantJaiswal-0125)
 
  
