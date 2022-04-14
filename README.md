@@ -18,7 +18,8 @@ Talk to me about
 - Backend development using **NodeJS,Java**
 - Making for **Relational Database Management Systems**
 - Robust full-stack system design implementation
-- Desktop application development using **Flutter**(Still learning)
+- Web Development development using **M.E.R.N** (Still Learning)
+
 - Mobile application development using **Flutter**
 - Solving Data structure and algorithm questions in **Java**
 ## Hello World!! 🤔
@@ -29,6 +30,7 @@ Talk to me about
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshkumarkhatri&hide=["issues"]&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=harshkumarkhatri.harshkumarkhatri)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=
+SiddhantJaiswal-0125)
 
  
