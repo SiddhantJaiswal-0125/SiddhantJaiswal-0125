@@ -22,7 +22,7 @@ Talk to me about
 - Making for **Relational Database Management Systems**
 - Robust full-stack system design implementation
 - Web Development development using **M.E.R.N** (Still Learning)
-- Mobile application development using **Flutter**
+- Mobile application development using **Flutter 🐦**
 - Solving Data structure and algorithm questions in **Java**
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
