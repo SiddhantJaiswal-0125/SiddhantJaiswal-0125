@@ -27,7 +27,7 @@ Talk to me about
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
 - 😄 Employement ... Open for intern opportunities
-- 🎯 Portfolio site: [Portfolio](https://siddhantjaiswal-0125.github.io/)
+- 🎯 Portfolio site: [https://siddhantjaiswal-0125.github.io/](https://siddhantjaiswal-0125.github.io/)
 - ⚡ Fun fact: Until 2010, carrier pigeons were faster than the internet.
 
 ![Siddhant's github stats](https://github-readme-stats.vercel.app/api?username=SiddhantJaiswal-0125&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
