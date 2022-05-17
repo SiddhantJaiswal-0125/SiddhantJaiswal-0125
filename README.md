@@ -17,7 +17,7 @@ I am Siddhant Jaiswal. I am from Ranchi, Jharkhand and currently doing my B.Tech
 
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **Flutter, HTML, Javascript,CSS,Bootstrap**
+- Front-end development using **Flutter, HTML, Javascript, CSS, Bootstrap**
 - Backend development using **NodeJS,Java**
 - Making for **Relational Database Management Systems**
 - Robust full-stack system design implementation
