@@ -17,17 +17,17 @@ I am Siddhant Jaiswal. I am from Ranchi, Jharkhand and currently doing my B.Tech
 
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **Flutter, HTML, Javascript,CSS,Bootstrap**
+- Front-end development using **Flutter, HTML, Javascript, CSS, Bootstrap**
 - Backend development using **NodeJS,Java**
 - Making for **Relational Database Management Systems**
 - Robust full-stack system design implementation
 - Web Development development using **M.E.R.N** (Still Learning)
-- Mobile application development using **Flutter**
+- Mobile application development using **Flutter 🐦**
 - Solving Data structure and algorithm questions in **Java**
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
 - 😄 Employement ... Open for intern opportunities
-- 🎯 Portfolio site: [Portfolio](https://siddhantjaiswal-0125.github.io/)
+- 🎯 Portfolio site: [https://siddhantjaiswal-0125.github.io/](https://siddhantjaiswal-0125.github.io/)
 - ⚡ Fun fact: Until 2010, carrier pigeons were faster than the internet.
 
 ![Siddhant's github stats](https://github-readme-stats.vercel.app/api?username=SiddhantJaiswal-0125&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
