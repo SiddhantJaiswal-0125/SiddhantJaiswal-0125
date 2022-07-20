@@ -8,7 +8,9 @@
 
 
 
-I am Siddhant Jaiswal. I am from Ranchi, Jharkhand and currently doing my B.Tech from Siksha O Anusandhan  University, Bhubaneswar 🏫. I love to explore and learn about new things.
+I am Siddhant Jaiswal. I am from Ranchi, Jharkhand and currently doing my B.Tech from Siksha O Anusandhan  University, Bhubaneswar 🏫.
+I am currently working as a SDE Intern at Pocket FM. Previously worked at OneGST as Flutter Developer and at Samsung Research Institute Bangalore as R&D Intern. 
+I love to explore and learn about new things.
 ## 👯 Communities
 * Codex 💻
 * Competative Lead at Codechef ITER Chapter 📈
