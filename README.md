@@ -9,8 +9,9 @@
 
 
 I am Siddhant Jaiswal. I am from Ranchi, Jharkhand and currently doing my B.Tech from Siksha O Anusandhan  University, Bhubaneswar 🏫.
+-  I am currently working as a **PS Intern at Informatica**.
 - I am currently working as a **SDE Intern at Pocket FM**.
-- Previously worked at **OneGST as Flutter Developer** and 
+- Previously worked as   **SDE Intern at Pocket FM**,and **OneGST as Flutter Developer** and 
 - at **Samsung Research Institute Bangalore as R&D Intern**. 
 
 I love to explore and learn about new things.
