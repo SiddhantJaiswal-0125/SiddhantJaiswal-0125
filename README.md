@@ -9,14 +9,14 @@
 
 
 I am Siddhant Jaiswal. I am from Ranchi, Jharkhand and currently doing my B.Tech from Siksha O Anusandhan  University, Bhubaneswar 🏫.
--  I am currently working as a **Product Specialist Intern at Informatica**.
+-  I am currently working as a **Product Specialist Trainee at Informatica**.
 - Previously worked as   **SDE Intern at Pocket FM**, and **OneGST as Flutter Developer** and 
 - at **Samsung Research Institute Bangalore as R&D Intern**. 
 
 I love to explore and learn about new things.
-## 👯 Communities
+# 👯 Communities
 * Codex 💻
-* Competative Lead at Codechef ITER Chapter 📈
+* Competitive Lead at Codechef ITER Chapter 📈
 * Campus Envoy at Samsung Prism ITER
 * Campus Ambassador at Coding Ninja 
 
