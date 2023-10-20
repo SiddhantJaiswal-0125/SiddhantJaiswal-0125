@@ -8,7 +8,7 @@
 
 
 
-I am Siddhant Jaiswal. I am from Ranchi, Jharkhand and currently doing my B.Tech from Siksha O Anusandhan  University, Bhubaneswar 🏫.
+I am Siddhant Jaiswal. I am from Ranchi, Jharkhand and Graduated from Siksha O Anusandhan  University, Bhubaneswar 🏫 with a Major on CSE - Btech.
 -  I am currently working as a **Product Specialist Trainee at Informatica**.
 - Previously worked as   **SDE Intern at Pocket FM**, and **OneGST as Flutter Developer** and 
 - at **Samsung Research Institute Bangalore as R&D Intern**. 
