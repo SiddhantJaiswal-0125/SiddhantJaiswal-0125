@@ -31,7 +31,7 @@ Talk to me about
 - Solving Data structure and algorithm questions in **Java**
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
-- 😄 Employement ... Open for intern opportunities
+- 😄 Employement ... Open for Full-Time Software Developer opportunities
 - 🎯 Portfolio site: [https://siddhantjaiswal-0125.github.io/](https://siddhantjaiswal-0125.github.io/)
 - ⚡ Fun fact: Until 2010, carrier pigeons were faster than the internet.
 
