@@ -22,17 +22,16 @@ I love to explore and learn about new things.
 
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **Flutter**
+- Front-end / Cross Platform development using **Flutter**
 - Backend development using **Java, SpringBoot, Python, Django**
-- Tools **Redis, AWS, MySQL, Sentry, Kibana, Docker, Kubernetes **
+- Tools **Redis, AWS, MySQL, Sentry, Kibana, Docker, Kubernetes**
 - Making for **Relational Database Management Systems**
 - Robust full-stack system design implementation
-- Web Development development using **M.E.R.N** (Still Learning)
 - Mobile application development using **Flutter 🐦**
 - Solving Data structure and algorithm questions in **Java**
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
-- 😄 Employement ... Open for Full-Time Software Developer opportunities
+- 😄 Employement : Product Specialist at Informatica.
 - 🎯 Portfolio site: [https://siddhantjaiswal-0125.github.io/](https://siddhantjaiswal-0125.github.io/)
 - ⚡ Fun fact: Until 2010, carrier pigeons were faster than the internet.
 
