@@ -22,8 +22,9 @@ I love to explore and learn about new things.
 
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **Flutter, HTML, Javascript, CSS, Bootstrap**
-- Backend development using **NodeJS, Java, Django, Redis, AWS, MySQL, Sentry, Kibana**
+- Front-end development using **Flutter**
+- Backend development using **Java, SpringBoot, Python, Django**
+- Tools **Redis, AWS, MySQL, Sentry, Kibana, Docker, Kubernetes **
 - Making for **Relational Database Management Systems**
 - Robust full-stack system design implementation
 - Web Development development using **M.E.R.N** (Still Learning)
