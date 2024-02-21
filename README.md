@@ -35,6 +35,5 @@ Talk to me about
 - 🎯 Portfolio site: [https://siddhantjaiswal-0125.github.io/](https://siddhantjaiswal-0125.github.io/)
 - ⚡ Fun fact: Until 2010, carrier pigeons were faster than the internet.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=SiddhantJaiswal-0125.SiddhantJaiswal-0125)
 
 ⭐️ From [@SiddhantJaiswal-0125](https://github.com/SiddhantJaiswal-0125)
