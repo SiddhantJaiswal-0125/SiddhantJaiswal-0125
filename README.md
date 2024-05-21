@@ -10,7 +10,7 @@
 
 I am Siddhant Jaiswal. I am from Ranchi, Jharkhand and Graduated from Siksha O Anusandhan  University, Bhubaneswar 🏫 with a Major on CSE - Btech.
 -  I am currently working as a **Product Specialist Trainee at Informatica**.
-- Previously worked as   **as SDE Intern at Samsung Research Institute Bangalore as R&D Intern** and 
+- Previously worked  **as SDE Intern at Samsung Research Institute Bangalore as R&D Intern** and 
 
 
 I love to explore and learn about new things.
